@@ -1,0 +1,2 @@
+select COUNT(*) from "FL_HDI_DB_1"."Products";
+here we can count the no of rows in the table using COUNT(*) it will return the no of records present in the table in case of lots of data we need to find it in data explorer
