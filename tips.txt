@@ -3,4 +3,4 @@ While replicating the data and using the date field always keep in thw mind that
 
 When we create table from BAS unless and until it is not delete from the BAS we will not able to use drop command in Data Explorer
 
-If you want to select multiple fields in sequnse we will use Shift + click it will select multiple fields in single go 
+If you want to select multiple fields in sequence  we will use Shift + click it will select multiple fields in single go 
