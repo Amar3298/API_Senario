@@ -1,0 +1,2 @@
+Data Replication 
+While replicating the data and using the date field always keep in thw mind that date is in the format YYYY-MM-DD
